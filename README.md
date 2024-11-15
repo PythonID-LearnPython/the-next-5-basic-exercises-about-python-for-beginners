@@ -1,2 +1,2 @@
-# the-next-5-basic-exercises-about-python-for-beginners
-The next 5 exercises about the python programming language will help you improve your knowledge of the python language. By practicing the exercises I give you will quickly master Python.
+# The next 5 basic exercises about python programming language for beginners
+Learn basic Python for dummies by doing basic exercises to master Python knowledge. Details about exercises and practice are _([https://pythonid.com/user/doan/projects/the-next-5-basic-exercises-about-python-for-beginners]here)_. In addition, you need to learn the basic theories on the _([https://pythonid.com/tutorials/python-getting-started]here)_
